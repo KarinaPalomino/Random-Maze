@@ -11,6 +11,7 @@ This project initializes a **random maze** of size n and finds the path between 
     <summary> Finding the Path </summary>
    What good is having a maze if there's no path to follow? This part of the project is focused on simulating a path from one point in the maze to another. In this particular project, we are finding the path from the endpoints (1,n) to (n,1). Recursion, for-loops, conditionals, and understanding of array functions where used in this part of the project.
   </details>
+  
 ## Results
 
 ![alt text][logo]
